@@ -1,8 +1,8 @@
 public class Address{
-	String address;
-	String city;
-	String state;
-	int zip;
+	private String address;
+	private String city;
+	private String state;
+	private int zip;
 
 	public Address(String address,String city,String state,int zip) {
   	this.address=address;
