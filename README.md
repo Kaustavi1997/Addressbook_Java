@@ -20,6 +20,8 @@ address,city,state,zip. It has getter and setter methods and a constructor.
 	AddressBookApplication Class contains the following methods:
 
 	toggle(),create(),saveAs(),savefinal(),diplayOptions()
+	
+	Save the file with extension .json
 
 	Instructions : 
 	1 . javac Address.java
